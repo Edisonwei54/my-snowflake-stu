@@ -301,3 +301,4 @@ QQ群：646049993
 [83]: https://github.com/didi/tinyid
 [84]: https://github.com/sony/sonyflake
 
+# my-snowflake-stu
